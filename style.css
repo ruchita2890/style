@@ -1,0 +1,22 @@
+#h3 {
+    color: blue
+}
+
+#h3-new {
+    color: green
+}
+
+.large-font {
+    font-size: xx-large;
+}
+
+.color-green {
+    color: green
+}
+
+.border-class {
+    border-color: blueviolet;
+    border-width: 2px;
+    padding: 10px;
+    margin: 10px;
+}
